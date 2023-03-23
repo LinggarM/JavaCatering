@@ -6,7 +6,6 @@ This project was participated in the **student entrepreneur program** (governmen
  due to some reasons
 
 ## UI Mockup
-## Screenshots
 Launcher | Login Page | Home Page | 
 :-------------------------:|:-------------------------:|:-------------------------:
 ![UI Mockup 1](UI%20Mockup/Launcher.png)  |  ![UI Mockup 2](UI%20Mockup/Login.png)  |  ![UI Mockup 3](UI%20Mockup/Home.png)
